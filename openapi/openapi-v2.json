@@ -1,9 +1,9 @@
 openapi: 3.0.0
 info:
-  title: Evolution API | v2.2.0 - v2.2.1
+  title: Zappfy API
   version: 1.0.0
 servers:
-  - url: http://{{baseurl}}
+  - url: https://api.zappfy.io
 components:
   securitySchemes:
     apikeyAuth:
