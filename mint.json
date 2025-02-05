@@ -401,30 +401,6 @@
       "version": "v2"
     },
     {
-      "group": "Websocket",
-      "pages": [
-        "v2/api-reference/integrations/websocket/set-websocket",
-        "v2/api-reference/integrations/websocket/find-websocket"
-      ],
-      "version": "v2"
-    },
-    {
-      "group": "SQS",
-      "pages": [
-        "v2/api-reference/integrations/sqs/set-sqs",
-        "v2/api-reference/integrations/sqs/find-sqs"
-      ],
-      "version": "v2"
-    },
-    {
-      "group": "RabbitMQ",
-      "pages": [
-        "v2/api-reference/integrations/rabbitmq/set-rabbitmq",
-        "v2/api-reference/integrations/rabbitmq/find-rabbitmq"
-      ],
-      "version": "v2"
-    },
-    {
       "group": "Iniciar",
       "pages": [
         "v1/pt/get-started/introduction",
@@ -608,33 +584,8 @@
       ],
       "version": "v1"
     },
-    {
-      "group": "SQS",
-      "pages": [
-        "v1/api-reference/integrations/sqs/set-sqs",
-        "v1/api-reference/integrations/sqs/find-sqs"
-      ],
-      "version": "v1"
-    },
-    {
-      "group": "RabbitMQ",
-      "pages": [
-        "v1/api-reference/integrations/rabbitmq/set-rabbitmq",
-        "v1/api-reference/integrations/rabbitmq/find-rabbitmq"
-      ],
-      "version": "v1"
-    },
-    {
-      "group": "WebSocket",
-      "pages": [
-        "v1/api-reference/integrations/websocket/set-websocket",
-        "v1/api-reference/integrations/websocket/find-websocket"
-      ],
-      "version": "v1"
-    }
   ],
   "footerSocials": {
-    "website": "https://evolution-api.com",
-    "github": "https://github.com/EvolutionAPI/evolution-api"
+    "website": "https://zappfy.io",
   }
 }
