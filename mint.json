@@ -7,8 +7,8 @@
     "suggestEdit": false
   },
   "logo": {
-    "dark": "/images/brand/cover-white.png",
-    "light": "/images/brand/cover.png"
+    "dark": "https://zappfy.vercel.app/images/Be.fy.svg",
+    "light": "https://zappfy.vercel.app/images/Be.fy.svg"
   },
   "favicon": "/favicon.png",
   "colors": {
